@@ -58,7 +58,7 @@ const About = () => (
 const Contact = () => (
   <div style={pageStyle}>
     <h2 style={{ fontSize: '1.75rem', marginBottom: '0.75rem' }}>Contact</h2>
-    <p>Reach out via email@example.com for more information.</p>
+    <p>Reach out via yashigoyal72@gmail.com for more information.</p>
   </div>
 )
 
